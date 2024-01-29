@@ -14,9 +14,9 @@ console.log('something new is cooking') */
 
 let num = 0; //loop variable 
 
-while (num < 7) {
-    console.log('Looping is running', num)
-    // num = num + 1;
+while (num < 7) { //loop condition
+    console.log('Looping is running', num) //loop statement 
+    // num = num + 1; //loop variable value change 
     // num += 1;
     num++; //++ double plus দিয়ে num এর value ১ করে increment হবে।
 }
